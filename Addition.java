@@ -1,0 +1,44 @@
+class  Addition
+{
+	public static void main(String[] args) 
+	{
+
+		//Case 1
+
+
+		
+		char n= ' ';
+		char ch='a'; 
+		System.out.println(n);
+		System.out.println(ch);
+		 System.out.println(20+10);
+		 System.out.println(30+4.6);
+		 System.out.println(1.8+2.9);    //This is Store the data in ch'a' 
+		
+		
+
+		//Case 2
+	/*	char b='B',C='c',Z='z';    //this is also store the data in a  charactor
+		System.out.println(b +20);
+		System.out.println(C +30);
+		System.out.println(Z +3.5);            //This is show the Ascii values
+		                                       //
+		System.out.println('1'+'3');*/
+
+
+         //Case 3
+
+	/*	System.out.println('b' +20);
+		System.out.println('C' +30);
+		System.out.println('Z' +3.5);            //This is show the Ascii values
+		                                       //here the valuse are print the data inside a printing statement
+		System.out.println('1'+'3');*/
+
+
+
+		//Boolean functions//
+		 
+		/* System.out. println(true+10);  */   // The boolean functions are not execution becouse Bloolean+ Integer= CTE
+	}
+
+}
