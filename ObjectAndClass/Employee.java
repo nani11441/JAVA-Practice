@@ -1,5 +1,8 @@
 package ObjectAndClass;
 
+import java.util.Scanner;
+
+
 class Employee {
 
     // Instance variables
