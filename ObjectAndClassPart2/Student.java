@@ -1,4 +1,4 @@
-package ObjectAndClass;
+package ObjectAndClassPart2;
 
 class Student {
 

@@ -1,4 +1,4 @@
-package ObjectAndClass;
+package ObjectAndClassPart2;
 
 public class Employee1 {
 
