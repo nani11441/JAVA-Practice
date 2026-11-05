@@ -1,4 +1,4 @@
-package MembersOfClass;
+package MembersOfClass.StaticVariables;
 
 public class ChangeStaticVariable {
     /*Because both objects share the same static variable. When we change it through the class, the changed value is visible through both objects. */

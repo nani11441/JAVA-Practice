@@ -1,4 +1,4 @@
-package MembersOfClass;
+package MembersOfClass.StaticVariables;
 
 public class StaticVariable {
     int id;

@@ -1,4 +1,4 @@
-package MembersOfClass;
+package MembersOfClass.StaticMethods;
 
 public class ParametersMethod {
     
